@@ -75,6 +75,6 @@ let b=a;
 console.log(`a:${a}`);//1,2,3
 console.log(`a:${b}`);//1,2,3
 b.push(7);
-console.log(`a:${a}`);//1,2,3
-console.log(`a:${b}`);//1,2,3
+console.log(`a:${a}`);//1,2,3,7
+console.log(`a:${b}`);//1,2,3,7
 
